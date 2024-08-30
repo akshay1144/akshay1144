@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
-- 💬 Ask me about **Docker,Terraform,Jemkins**
+- 💬 Ask me about **Docker,Terraform,Jenkins**
 
 - 📫 How to reach me **akshaysahadevan1414@gmail.com**
 
